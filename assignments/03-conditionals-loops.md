@@ -41,7 +41,7 @@ all.
 8. Calculate Depreciation of Value
 9. Calculate Batting Average
 10. Calculate CGPA Java Program
-11. Compound Interest Java Program
+11. Compound Interest Java Program(Done)
 12. Calculate Average Marks
 13. Addition Of Two Numbers
 14. Sum Of N Numbers
