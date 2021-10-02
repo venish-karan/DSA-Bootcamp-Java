@@ -34,7 +34,7 @@ all.
 1. Factorial Program In Java                             (Done)
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
-4. Calculate Discount Of Product
+4. Calculate Discount Of Product                         (Done)
 5. Calculate Distance Between Two Points 
 6. Calculate Commission Percentage
 7. Power In Java
